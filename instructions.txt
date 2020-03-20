@@ -1,0 +1,3 @@
+jsonserver> npm run db
+jsonserver> npm run tunnel
+blog> npm run start
